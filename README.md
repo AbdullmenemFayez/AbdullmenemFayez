@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=AbdullmenemFayez&color=brightgreen"> 
+
 <!--
 **AbdullmenemFayez/AbdullmenemFayez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=AbdullmenemFayez&color=brightgreen"> 
+</br>
 ![snake gif](https://github.com/AbdullmenemFayez/AbdullmenemFayez/blob/output/github-contribution-grid-snake.gif)
 
 ### ⚙️ &nbsp;GitHub Analytics
