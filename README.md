@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/AbdullmenemFayez/AbdullmenemFayez/blob/output/github-contribution-grid-snake.gif)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<img src="https://camo.githubusercontent.com/2da6b41b132200a7adac417284e884eef2377843b6f292cb273e657cab1d9bb2/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f4a61636f624c696e436f6f6c3f7468656d653d756e69636f726e26657874656e73696f6e3d6163746976697479" alt="LeetCode Stats" data-canonical-src="[https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&amp;extension=activity](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)" style="max-width: 100%;">
+
 <p align="center">
 <a href="https://github.com/AbdullmenemFayez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdullmenemFayez&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
