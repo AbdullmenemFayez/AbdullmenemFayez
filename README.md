@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AbdullmenemFayez&color=brightgreen"> 
 
 
-![snake gif](https://github.com/AbdullmenemFayez/AbdullmenemFayez/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/AbdullmenemFayez/AbdullmenemFayez/blob/output/github-contribution-grid-snake.gif)-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/KnlnKS/leetcode-stats">
