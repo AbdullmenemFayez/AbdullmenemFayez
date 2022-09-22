@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/AbdullmenemFayez/AbdullmenemFayez/blob/output/github-contribution-grid-snake.gif)
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<img src = "https://leetcode.card.workers.dev/Abdullmenem_Ramadan?theme=unicorn&font=source_code_pro&extension=activity">
 <p align="center">
 <a href="https://github.com/AbdullmenemFayez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdullmenemFayez&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
