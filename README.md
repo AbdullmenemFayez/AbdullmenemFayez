@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Abdullmenem_Ramadan?theme=unicorn&font=source_code_pro)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Abdullmenem_Fayez?theme=unicorn&font=source_code_pro)
 
 <p align="center">
 <a href="https://github.com/AbdullmenemFayez">
